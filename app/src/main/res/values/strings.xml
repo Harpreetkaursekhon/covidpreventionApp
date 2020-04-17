@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">WeSafe</string>
+    <string name="intro_str">With Our app,
+        you can protect your self, your family,
+        andyour friends and help our country in the effort to fight with COVID19</string>
+    <string name="app_des">App Description</string>
+    <string name="vission">Keep Australia Safe</string>
+    <string name="contri">We create awareness to make community safe by spreading the power of patience and preseverance</string>
+    <string name="url">https://www.covidvisualizer.com/</string>
+    <string name="imageurl">https://cdn.theconversation.com/static_files/files/890/Flatten_the_curve1.gif?1583941324</string>
+    <string name="activity1">Helping to Protect Vulnerable Population</string>
+    <string name="activity2">Relax the testing criteria</string>
+    <string name="activity3">Increase the number of Testing center</string>
+    <string name="activity4">Total lockdown implementation like India and New Zealand</string>
+    <string name="activity5">People are going outside for the basic necessities like groceries,`
+fruits, veg and food. All the facilities should be provided online or door step delivery</string>
+    <string name="activity6">Expanding and improving access to education and resources</string>
+    <string name="activity7">The corona virus pandemic has new shifts in education approaches should widen equality gaps and  bring innovation to educate around globe</string>
+    <string name="activity8">Online resources utilization and awareness by all the influential personalities to whom people follows such as leaders and celebrities can pass message of awareness,
+        to stay home and use safety measure with hygiene</string>
+    <string name="activity9">Government can send some alert messages to the people about safety measure to make them aware</string>
+    <string name="activity10">Indentifying who, why, and when to test and increase testing accessibility</string>
+    <string name="activity11">Who?</string>
+    <string name="activity12">To test people who visited medical centers to get treatment for disease like cough, fever, cold, sneezing, short of breath in last 45days to two months</string>
+    <string name="activity13">To get on the top of corona virus, we also need to test people without symptoms</string>
+    <string name="activity14">Why?</string>
+    <string name="activity15">It’s essential to find out infected from the virus to reduce or stop the chain of spreading CORONA</string>
+    <string name="activity16">When?</string>
+    <string name="activity17">Need to make online self screening process for everyone and people having high risk result need to be tested and treated by epidemiologist, virologist </string>
+    <string name="activity18">Self assessment test can be consider if anyone is feeling symptoms of corona</string>
+    <string name="activity19">INDOOR ACTIVITIES AND EXCERCISE</string>
+    <string name="act1">Remote Patient Triaging and possibility for local area infections</string>
+    <string name="act2">Remotely trains to all the doctors, nurses and medical students by the specialized and Epidemiologist in all the outskirts area having less medical facilities. If specialist can not reach then other can reach by remote learning</string>
+    <string name="act3">By preparing air ambulance ready in case situation goes worse like in Germany</string>
+    <string name="act4">Use of available resources as an Isolation centers would be a quick solution to keep the infected people to reduce the risk like India in the time of lockdown is using trains as an isolation center </string>
+
+    <string name="activity20">INDOOR ACTIVITIES AND EXCERCISE</string>
+
+
+
+
+
+
+
+
+    <string name="socdist_1">Keep Your Distance</string>
+    <string name="socdist_2">One way to slow the spread of viruses, such as coronavirus, is social distancing (also called physical distancing).
+        The more space between you and others, the harder it is for the virus to spread.</string>
+    <string name="socdist_3">In public</string>
+    <string name="socdist_4">Stay at home with your family to slow spread and only go out if it is absolutely essential,
+keep 1.5 metres away from others,
+avoid physical greetings such as handshaking, hugs and kisses,
+use tap and go instead of cash,
+travel at quiet times and avoid crowds,
+avoid public gatherings and at risk groups like older people,
+practise good hygiene. </string>
+    <string name="testyou">Self Assessment Test</string>
+    <string name="testyou1">This test will help you assess your symptoms and determine if you are a candidate
+        for a coronavirus disease 2019 (COVID-19) test.
+        It also offers guidance on when to seek medical care and what to do in the meantime. </string>
+    <string name="testyou2">Go Ahead Please</string>
+    <string name="testyourself">Please click here</string>
+
+    <string name="avoidgathering">Avoid Gathering To Slow The Spread</string>
+    <string name="avoidgathering1">We know that it can be difficult and disappointing to cancel
+        special events  and not have contact with family and friends to avoid gathering. However, this is a critically important way to slow the spread of COVID-19 and protect your friends, family and neighbours,
+        as well as our health-care  system, at this challenging time.</string>
+    <string name="avoidgathering2">Enjoy social activities with people in your household and connect with friends and family from a distance, via social media or the telephone.
+
+Take advantage of the many online resources being made available free of charge by museums and performing arts organizations.</string>
+    <string name="avoidgathering3">Take an online course.
+Complete projects at home.</string>
+
+    <string name="wearmask">When to Wear Mask</string>
+    <string name="wearmask1">If you are healthy, you only need to wear a mask if you are taking care of a person with suspected 2019-nCoV infection.
+Wear a mask if you are coughing or sneezing or if someone else is coughing and sneezing to reduce the chances to get infected.
+Masks are effective only when used in combination with frequent hand-cleaning before wearing the mask with alcohol-based hand rub or soap and water.
+If you wear a mask, then you must know how to use it and dispose of it properly.
+    </string>
+    <string name="makemask">Please click here to learn</string>
+    <string name="wearmask2">Activity- Learn how to make mask at home if you runs out</string>
+
+    <string name="handshake">Stop Shaking Hands</string>
+    <string name="handshake1">The coronavirus outbreak has us all on edge and struggling to understand how to safeguard ourselves and our loved ones.</string>
+    <string name="handshake2">Ways to avoid physical greetings</string>
+    <string name="handshake3">If someone reaches out to shake your hand, either socially or in business, you can simply say, ‘I’m going handshake-free to be extra careful</string>
+</resources>

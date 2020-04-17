@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.app.wesafe">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/wesafesplash"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/wesafesplash"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".NearmeActivity"></activity>
+        <activity android:name=".Challenge4Activity" />
+        <activity android:name=".Challege3Activity" />
+        <activity android:name=".Challege2Activity" />
+        <activity android:name=".Challenge1Activity" />
+        <activity android:name=".MenuActivity" />
+        <activity android:name=".MakemaskActivity" />
+        <activity android:name=".MytestActivity" />
+        <activity android:name=".CoronaLive" />
+        <activity android:name=".Testyourself" />
+        <activity android:name=".Wearmask" />
+        <activity android:name=".AvoidGathering" />
+        <activity android:name=".ChallengeActivity" />
+        <activity android:name=".HandShake" />
+        <activity android:name=".Maintaindistance" />
+        <activity android:name=".RecommendActivity" />
+        <activity android:name=".DescriptionActivity" />
+        <activity android:name=".IntroActivity" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
